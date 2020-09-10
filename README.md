@@ -2,6 +2,7 @@
 
 [![Xiaotao's github stats](https://github-readme-stats.vercel.app/api?username=XiaotaoGuo)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XiaotaoGuo/XiaotaoGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
