@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://guoxiaotao.xyz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo" alt="Xiaotao's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo&hide=issues&show_icons=true" alt="Xiaotao's github stats"/>
 </a>
 <a href="https://guoxiaotao.xyz/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo&layout=compact" />
