@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Xiaotao's github stats](https://github-readme-stats.vercel.app/api?username=XiaotaoGuo)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://sekibetu.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo&theme=tokyonight" alt="Xiaotao's github stats"/>
+</a>
+<a href="https://sekibetu.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo&layout=compact&theme=tokyonight" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **XiaotaoGuo/XiaotaoGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
