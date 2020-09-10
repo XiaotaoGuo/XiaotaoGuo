@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<a href="https://sekibetu.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo&theme=tokyonight" alt="Xiaotao's github stats"/>
+<a href="https://guoxiaotao.xyz/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo" alt="Xiaotao's github stats"/>
 </a>
-<a href="https://sekibetu.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo&layout=compact&theme=tokyonight" />
+<a href="https://guoxiaotao.xyz/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo&layout=compact" />
 </a>
 
 <!--
