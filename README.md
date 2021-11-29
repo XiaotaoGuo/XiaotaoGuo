@@ -2,8 +2,7 @@
 
 <a href="https://xiaotaoguo.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XiaotaoGuo&hide=issues&show_icons=true" alt="Xiaotao's github stats"/>
-</a>
-<a href="https://xiaotaoguo.com/">
+</a><a href="https://xiaotaoguo.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotaoGuo&layout=compact&hide=javascript,html" />
 </a>
 
